@@ -38,3 +38,10 @@ The  steps to making a "Supreme Admin" Account (<b> Roles</b>) is Admin Panel ->
 <p>
 Next to make a Deparment follow these steps  Admin Panel -> Agents -> Departments-> System Administrators
 </p>
+<p> 
+ <img src=https://i.imgur.com/NSWfkOn.png/>
+</p>
+<p>
+  To add Teams to osTicket go to Admin Panel -> Agents -> Teams -> 
+  Level I Support -> <b> Level II Support</b>
+</p>
