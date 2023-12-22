@@ -58,3 +58,15 @@ Next to configure a Deparment follow these steps  Admin Panel -> Agents -> Depar
  <b>i.Sev-A (1 hour, 24/7) ii.Sev-B (4 hours, 24/7)  iii.Sev-C (8 hours, business hours) </b>
 <br />
 </p>
+<p><img src=https://i.imgur.com/l8JnDdl.png/>
+ 
+</p>
+<p>
+ To Configure Help Topics Admin -> Manage -> Help Topics
+ <b>i.Business Critical Outage ii.Personal Computer Issues iii. Equipment Reset 
+ iv. Password Reset </b>
+</p>
+ 
+
+
+</p>
